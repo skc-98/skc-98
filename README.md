@@ -3,5 +3,5 @@
 <br>
 <br>
 ## Stat & Language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skc-98&show_icons=true&theme=dark)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skc-98&langs_count=10&layout=compact&theme=dark)](https://github.com/skc-98/skc-98)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skc-98&show_icons=true&theme=default)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skc-98&langs_count=10&layout=compact&theme=default)](https://github.com/skc-98/skc-98)

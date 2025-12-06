@@ -60,9 +60,10 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=skc-98&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=skc-98&layout=compact&hide_border=true&theme=transparent)
-
+<div align="center">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=skc-98&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=skc-98&layout=compact&hide_border=true&theme=transparent" />
+</div>
 ---
 
 ## 📬 Contact

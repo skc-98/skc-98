@@ -60,10 +60,16 @@
 ---
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=skc-98&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=skc-98&layout=compact&hide_border=true&theme=transparent" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=skc-98&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="165"
+/>
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=skc-98&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+/>
+</p>
 ---
 
 ## 📬 Contact

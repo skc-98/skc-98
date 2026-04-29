@@ -75,3 +75,4 @@
 
 ## 📬 Contact
 📧 richkc2006@naver.com
+📧 richkc2006@gmail.com

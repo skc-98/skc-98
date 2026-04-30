@@ -1,5 +1,5 @@
 <p align="center">
-  🧑‍💻 Backend Developer & Infrastructure Engineer  
+  🧑‍💻 Backend Developer & Infrastructure Engineer
 </p>
 
 ---
